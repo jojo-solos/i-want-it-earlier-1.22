@@ -1,0 +1,113 @@
+{
+  "creaking_ambient": {
+    "subtitle": "sounds.iwie.creaking_ambient",
+    "sounds": [
+      "iwie:creaking_idle1",
+      "iwie:creaking_idle2",
+      "iwie:creaking_idle3",
+      "iwie:creaking_idle4",
+      "iwie:creaking_idle5",
+      "iwie:creaking_idle6"
+    ]
+  },"creaking_activate": {
+  "subtitle": "sounds.iwie.creaking_activate",
+  "sounds": [
+    "iwie:creaking_activate"
+  ]
+},
+  "creaking_deactivate": {
+    "subtitle": "sounds.iwie.creaking_deactivate",
+    "sounds": [
+      "iwie:creaking_deactivate"
+    ]
+  },
+  "creaking_attack": {
+    "subtitle": "sounds.iwie.creaking_attack",
+    "sounds": [
+      "iwie:creaking_attack"
+    ]
+  },
+  "creaking_death": {
+    "subtitle": "sounds.iwie.creaking_death",
+    "sounds": [
+      "iwie:creaking_death"
+    ]
+  },
+  "creaking_freeze": {
+    "subtitle": "sounds.iwie.creaking_freeze",
+    "sounds": [
+      "iwie:creaking_freeze"
+    ]
+  },
+  "creaking_unfreeze": {
+    "subtitle": "sounds.iwie.creaking_unfreeze",
+    "sounds": [
+      "iwie:creaking_unfreeze"
+    ]
+  },
+  "creaking_sway": {
+    "subtitle": "sounds.iwie.creaking_sway",
+    "sounds": [
+      "iwie:creaking_sway"
+    ]
+  },
+  "creaking_twitch": {
+    "subtitle": "sounds.iwie.creaking_twitch",
+    "sounds": [
+      "iwie:creaking_twitch"
+    ]
+  },
+  "creaking_spawn": {
+    "subtitle": "sounds.iwie.creaking_spawn",
+    "sounds": [
+      "iwie:creaking_spawn"
+    ]
+  },
+  "creaking_step": {
+    "subtitle": "sounds.iwie.creaking_step",
+    "sounds": [
+      "iwie:creaking_step1",
+      "iwie:creaking_step2",
+      "iwie:creaking_step3",
+      "iwie:creaking_step4",
+      "iwie:creaking_step5"
+    ]
+  },
+  "creaking_heart_step": {
+    "subtitle": "sounds.iwie.creaking_heart_step",
+    "sounds": [
+      "iwie:creaking_heart_step"
+    ]
+  },
+  "creaking_heart_break": {
+    "subtitle": "sounds.iwie.creaking_heart_break",
+    "sounds": [
+      "iwie:creaking_heart_break"
+    ]
+  },
+  "creaking_heart_place": {
+    "subtitle": "sounds.iwie.creaking_heart_place",
+    "sounds": [
+      "iwie:creaking_heart_place1",
+      "iwie:creaking_heart_place2",
+      "iwie:creaking_heart_place3",
+      "iwie:creaking_heart_place4"
+    ]
+  },
+  "creaking_heart_hit": {
+    "subtitle": "sounds.iwie.creaking_heart_hit",
+    "sounds": [
+      "iwie:creaking_heart_hit1",
+      "iwie:creaking_heart_hit2",
+      "iwie:creaking_heart_hit3",
+      "iwie:creaking_heart_hit4",
+      "iwie:creaking_heart_hit5"
+    ]
+  },
+  "creaking_heart_fall": {
+    "subtitle": "sounds.iwie.creaking_heart_fall",
+    "sounds": [
+      "iwie:creaking_heart_fall"
+    ]
+  }
+}

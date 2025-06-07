@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "iwie",
+  "version": "${version}",
+  "name": "I want it earlier!",
+  "description": "This Mod adds items and blocks before they are even in game!",
+  "authors": [
+    "Onako2",
+    "MrKnowledge",
+    "Bloxcrafter"
+  ],
+  "contributors": [
+    "Onako2",
+    "MrKnowledge",
+    "Bloxcrafter",
+    "SAGUMEDREAM"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/i-want-it-earlier",
+    "sources": "https://github.com/Onako2/i-want-it-earlier",
+    "discord": "https://discord.gg/nFpa776nQk",
+    "issues": "https://github.com/Onako2/i-want-it-earlier/issues"
+  },
+  "mixins": [
+    "iwie.mixins.json"
+  ],
+  "license": "MIT",
+  "icon": "assets/iwie/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "rs.onako2.iwie.Init"
+    ],
+    "client": [
+      "rs.onako2.iwie.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.22",
+    "minecraft": ">=1.21 <=1.21.1",
+    "java": ">=21",
+    "fabric-api": ">=0.78"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:simple_block",
+  "config": {
+    "to_place": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "data": {
+            "Name": "iwie:pale_moss_carpet"
+          },
+          "weight": 25
+        },
+        {
+          "data": {
+            "Name": "iwie:pale_short_grass"
+          },
+          "weight": 30
+        },
+        {
+          "data": {
+            "Name": "minecraft:tall_grass",
+            "Properties": {
+              "half": "lower"
+            }
+          },
+          "weight": 1
+        },
+        {
+          "data": {
+            "Name": "iwie:open_eyeblossom"
+          },
+          "weight": 1
+        },
+        {
+          "data": {
+            "Name": "iwie:closed_eyeblossom"
+          },
+          "weight": 1
+        }
+      ]
+    }
+  }
+}
